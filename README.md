@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#61dafb">Muhammad Huzaifa</span></h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#61dafb">Muhammad Hussain</span></h1>
 <h3 align="center">🚀 Passionate Web Developer | Full Stack Developer</h3>
 
 <p align="center">
